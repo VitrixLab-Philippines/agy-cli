@@ -1,6 +1,6 @@
-# agy-cli
+# Antigravity CLI (agy-cli)
 
-CLI integration for AGY - for training people
+A hands-on, beginner-friendly integration for Antigravity CLI (agy). Made for training new users to get comfortable with command-line tools step by step.
 
 ## 📋 Table of Contents
 
